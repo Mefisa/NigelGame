@@ -1,3 +1,3 @@
-# NigelGame
+# Pewpew
 
-Play as Nigel in a hardore bullet-hell game. 
+Play as a square in a hardore bullet-hell game. 
